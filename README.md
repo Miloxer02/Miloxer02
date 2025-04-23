@@ -1,6 +1,6 @@
 # About Me
 
--  Master's student in Quantitative Asset and Risk Management (ARIMA) at the UEK in Katowice and FH des BFI Vien.  
+-  Master's Degree student in Quantitative Asset and Risk Management (ARIMA) at the UEK in Katowice and FH des BFI Vien.  
 -  Interested in quantitative finance, algorythmic trading, stochastic modeling and risk modeling.  
 -  I'm building tools to analyze investment profitability, predict asset prices, and manage financial risk – using Python and R.
 
