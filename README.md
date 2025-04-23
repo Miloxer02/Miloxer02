@@ -1,21 +1,20 @@
-# 👋 I'm Miłosz (Miloxer02)
+# I'm Miłosz (Miloxer02)
 
 🎓 I'm currently a master's student in Quantitative Asset and Risk Management (ARIMA) at the UEK in Katowice and FH des BFI Vien.  
-📊 My passion lies in quantitative finance, algorythmic trading, and risk modeling.  
+📊 I'm interested in quantitative finance, algorythmic trading, and risk modeling.  
 ⚙️ I'm building tools to analyze investment profitability, predict asset prices, and manage financial risk – using Python and R.
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- Future CFA charterholder (CFA Level 1 candidate – 2025)
-- Tech stack: `Python`, `R`, `SQL`, `Excel`, `VBA`
+- `Python`, `R`, `SQL`, `Excel`, `VBA`
 - Interests: CFD's trading and speculation (mainly NASDAQ), stochastic modeling, risk modelling
-- I love pushing limits – ran my first ultramarathon in 2024 and training for Ironman 70.3
+- I love trail running
 
 ---
 
-## 🔬 Current Projects
+## Current Projects
 
 - **Portfolio Risk & Optimization System**  
  A Python-based tool for real-time analysis of portfolios using Stooq and YFinance.
