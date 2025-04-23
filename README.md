@@ -33,7 +33,7 @@
 
 ## 📈 Long-Term Goal
 
-To become a **quantitative analyst** focused on data-driven strategies, risk-adjusted returns, and advanced modeling.
+To become a **quantitative analyst** focused on data-driven strategies, risk-adjusted returns, and advanced trading modeling.
 
 ---
 
