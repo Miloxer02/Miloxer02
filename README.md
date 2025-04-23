@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Miłosz (Miloxer02)
 
 🎓 I'm currently a master's student in Quantitative Asset and Risk Management (ARIMA) at the UEK in Katowice and FH des BFI Vien.  
-📊 My passion lies in quantitative finance, portfolio optimization, and risk modeling.  
+📊 My passion lies in quantitative finance, algorytmic trading, and risk modeling.  
 ⚙️ I'm building tools to analyze investment profitability, predict asset prices, and manage financial risk – using Python and R.
 
 ---
