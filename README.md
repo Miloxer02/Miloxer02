@@ -8,7 +8,7 @@
 
 ## What do i use
 
-- Mostly `Python`, `R`, `Excel`
+- Mostly `Python`, `R` and `Excel`
 
 ---
 
