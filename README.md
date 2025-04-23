@@ -1,16 +1,14 @@
-# I'm Miłosz (Miloxer02)
+# About Me
 
--  I'm currently a master's student in Quantitative Asset and Risk Management (ARIMA) at the UEK in Katowice and FH des BFI Vien.  
--  I'm interested in quantitative finance, algorythmic trading, and risk modeling.  
+-  MA student in Quantitative Asset and Risk Management (ARIMA) at the UEK in Katowice and FH des BFI Vien.  
+-  Interested in quantitative finance, algorythmic trading, stochastic modeling and risk modeling.  
 -  I'm building tools to analyze investment profitability, predict asset prices, and manage financial risk – using Python and R.
 
 ---
 
-## About Me
+## What do i use
 
-- `Python`, `R`, `SQL`, `Excel`, `VBA`
-- Interests: CFD's trading and speculation (mainly NASDAQ), stochastic modeling, risk modelling
-- I love trail running
+- Mostly `Python`, `R`, `Excel`
 
 ---
 
@@ -30,16 +28,8 @@
 
 ---
 
-## 📈 Long-Term Goal
-
-To become a **quantitative analyst** focused on data-driven strategies, risk-adjusted returns, and advanced trading modeling.
-
----
-
-## 📬 Let's Connect
+## Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/milosz-lebecki)
-
-> "Be so good they can't ignore you." – Steve Martin
 
 ---
