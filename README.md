@@ -10,7 +10,7 @@
 
 - 🧮 Future CFA charterholder (CFA Level 1 candidate – 2025)
 - 🧰 Tech stack: `Python`, `R`, `SQL`, `Excel`, `VBA`
-- 📚 Interests: portfolio theory, stochastic modeling, risk modelling
+- 📚 Interests: CFD's trading and speculation (mainly NASDAQ), stochastic modeling, risk modelling
 - 🏃‍♂️ I love pushing limits – ran my first ultramarathon in 2024 and training for Ironman 70.3
 
 ---
