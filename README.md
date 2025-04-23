@@ -23,7 +23,7 @@
   Outputs include visualizations, confidence intervals, and Excel exports for practical integration with investment dashboards.
 
 - **Distribution Fitting & Tail Risk Analysis in R**  
-  A dedicated R-based module for **statistical distribution fitting** and **goodness-of-fit testing** on financial returns.  
+  R-based module for **statistical distribution fitting** and **goodness-of-fit testing** on financial returns.  
   Supports parametric modeling (e.g., Normal, Student-t, Rweibull, Lognormal, Gamma) and diagnostic tools to select best-fit models, with applications in tail risk estimation and 
   stress testing.
 
