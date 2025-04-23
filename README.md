@@ -16,7 +16,7 @@
 
 - **Portfolio Risk & Optimization System**  
  A Python-based tool for real-time analysis of portfolios using Stooq and YFinance.
- Estimating risk (e.g., **VaR**, **Expected Shortfall**), and calculating key statistics such as **CAGR**, **Expected Return**, and descriptive metrics.  
+ Estimating risk (**VaR**, **Expected Shortfall**), and calculating key statistics such as **CAGR**, **Expected Return**, and descriptive metrics.  
 
 - **Monte Carlo Simulation Engine for Portfolio Forecasting**  
   Incorporates historical return distributions, stochastic modeling, and scenario generation to estimate risk measures like **VaR** and **Expected Shortfall**.  
@@ -24,7 +24,8 @@
 
 - **Distribution Fitting & Tail Risk Analysis in R**  
   A dedicated R-based module for **statistical distribution fitting** and **goodness-of-fit testing** on financial returns.  
-  Supports parametric modeling (e.g., Normal, Student-t, Rweibull, Lognormal, Gamma) and diagnostic tools to select best-fit models, with applications in tail risk estimation and stress testing.
+  Supports parametric modeling (e.g., Normal, Student-t, Rweibull, Lognormal, Gamma) and diagnostic tools to select best-fit models, with applications in tail risk estimation and 
+  stress testing.
 
 ---
 
